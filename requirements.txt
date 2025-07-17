@@ -1,0 +1,6 @@
+streamlit
+pdfplumber
+requests
+Pillow
+pdfminer.six
+cryptography
